@@ -3,6 +3,9 @@
   "target": {
     "namespace": "android_app",
     "package_name": "uz.jannatsari.app",
-    "sha256_cert_fingerprints": ["10:FA:2B:42:41:1F:D3:58:82:F0:9B:F7:B5:2E:F0:A2:5A:47:AD:E8:A0:45:E5:61:45:0D:94:DD:35:73:C5:E3"]
+    "sha256_cert_fingerprints": [
+      "10:FA:2B:42:41:1F:D3:58:82:F0:9B:F7:B5:2E:F0:A2:5A:47:AD:E8:A0:45:E5:61:45:0D:94:DD:35:73:C5:E3",
+      "23:DC:67:A0:82:04:0B:F6:24:40:3F:2F:B5:2C:41:1E:4A:C2:59:A0:F8:EE:51:F2:86:E0:C2:E5:09:37:60:6E"
+    ]
   }
 }]
